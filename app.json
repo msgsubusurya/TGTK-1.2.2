@@ -4,9 +4,9 @@
   "keywords": [
     "telegram","bot","torrent","leech"
   ],
-  "repository": "https://github.com/reaitten/tgtk",
-  "success_url": "https://github.com/reaitten/tgtk",
-  "website": "https://github.com/reaitten/tgtk",
+  "repository": "https://github.com/msgsubusurya/TGTK-1.2.2",
+  "success_url": "https://github.com/msgsubusurya/TGTK-1.2.2",
+  "website": "https://github.com/msgsubusurya/TGTK-1.2.2",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -102,7 +102,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "10"
+        "version": "14"
       }
     }
   ]
